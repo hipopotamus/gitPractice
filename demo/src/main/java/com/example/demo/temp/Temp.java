@@ -8,4 +8,5 @@ public class Temp {
     private int reset;
     private int rereset;
     private int rebase;
+    private int rerebase;
 }
