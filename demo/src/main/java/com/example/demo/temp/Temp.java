@@ -7,4 +7,5 @@ public class Temp {
     private int ox;
     private int reset;
     private int rereset;
+    private int rebase;
 }
