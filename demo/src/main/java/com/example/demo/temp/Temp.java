@@ -5,4 +5,6 @@ public class Temp {
     private int temptation;
     private int ex;
     private int ox;
+    private int reset;
+    private int rereset;
 }
